@@ -18,3 +18,8 @@ This Java application extracts structured data from PDF files and saves it into 
 - Java 17 or higher
 - Apache PDFBox 2.0 or higher
 - A folder containing PDF files
+
+## Screenshots
+Here is a screenshots of the generated .csv output file:
+
+<img src="output.jpg" width="900"/>
